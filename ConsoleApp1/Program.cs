@@ -14,5 +14,3 @@ Console.WriteLine($"Привет, {name}!");
 // Ожидание завершения программы
 Console.WriteLine("Нажмите любую клавишу для выхода...");
 Console.ReadKey();
-
-//need pull
