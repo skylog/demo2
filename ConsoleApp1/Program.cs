@@ -4,7 +4,7 @@ Console.WriteLine("1");
 Console.OutputEncoding = System.Text.Encoding.UTF8;
 
 // Приветствие пользователя
-Console.WriteLine("Добро пожаловать в консольное приложение!");
+Console.WriteLine("Добро пожаловать в консольное приложение!");//demo123
 
 // Основная логика программы
 Console.Write("Введите ваше имя: ");
